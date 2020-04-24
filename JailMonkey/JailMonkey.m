@@ -57,7 +57,7 @@ RCT_EXPORT_MODULE();
              @"/usr/bin/theosinstall",
              @"/usr/lib/cycript0.9/com/saurik/substrate",
              @"/usr/lib/libcycript.dylib",
-			 @"/usr/lib/FridaGadget.dylib"
+			 @"/usr/lib/FridaGadget.dylib",
              @"/usr/libexec/sftp-server",
              @"/usr/libexec/ssh-keysign",
              @"/usr/local/bin/cycript",
